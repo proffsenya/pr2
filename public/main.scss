@@ -1,0 +1,15 @@
+$primary: #19deb3;
+$first: #f2ff00;
+$basic-font: Arial, Tahoma, sans-serif;
+
+.text {
+  color: $primary;
+  font-family: $basic-font;
+}
+
+.container .btn {
+  background-color: $primary;
+  &:hover {
+    background-color: $first;
+  }
+}

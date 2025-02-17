@@ -1,0 +1,11 @@
+.text {
+  color: #19deb3;
+  font-family: Arial, Tahoma, sans-serif;
+}
+
+.container .btn {
+  background-color: #19deb3;
+}
+.container .btn:hover {
+  background-color: #f2ff00;
+}/*# sourceMappingURL=main.css.map */
